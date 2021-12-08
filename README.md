@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ed-Matic&count_private=true&title_color=CFB87C&text_color=CFB87C&bg_color=000000&show_icons=true&icon_color=CFB87C&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-Matic&layout=compact&langs_count=5&title_color=CFB87C&text_color=CFB87C&bg_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-Matic&layout=compact&langs_count=6&title_color=CFB87C&text_color=CFB87C&bg_color=000000" />
 </a>
 
 ### About Me
