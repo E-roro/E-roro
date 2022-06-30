@@ -1,5 +1,7 @@
 # Ederin (Ed) Igharoro
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ed-Matic&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ed-Matic&count_private=true&title_color=CFB87C&text_color=CFB87C&bg_color=000000&show_icons=true&icon_color=CFB87C&include_all_commits=true" />
 </a>
