@@ -11,3 +11,5 @@
 
 ### About Me
 I am a Jr. Software Engineer at [iTEAM Consulting](https://iteamnm.com) in Albuquerque, New Mexico, USA. Indie (Game, Animation, Website, Video) developer, and aspiring to create new things and new outlooks (Began skills since May 2016).
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ed-Matic.Ed-Matic)
