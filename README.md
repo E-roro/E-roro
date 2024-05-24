@@ -9,7 +9,7 @@
 <p></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-roro&layout=compact&langs_count=10&title_color=CFB87C&text_color=CFB87C&bg_color=000000&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-roro&count_private=true&layout=compact&langs_count=10&title_color=CFB87C&text_color=CFB87C&bg_color=000000&hide_border=true" />
 </a>
 
 ### About Me
