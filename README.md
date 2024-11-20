@@ -1,7 +1,7 @@
 # Ederin (Ed) Igharoro
 
 ### About Me
-I am a Jr. Software Engineer at [iTEAM Consulting](https://iteamnm.com) in Albuquerque, New Mexico, USA. Indie (Game, Animation, Website, Video) developer, and aspiring to create new things and new outlooks (Began skills since May 2016).
+I am a Software Engineer at [iTEAM Consulting](https://iteamnm.com) in Albuquerque, New Mexico, USA. Indie (Game, Animation, Website, Video) developer, and aspiring to create new things and new outlooks (Began skills since May 2016).
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ed-roro&theme=dark&show_icons=true&hide_border=true&count_private=true" width="500" /><br />
